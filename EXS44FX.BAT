@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --flag-switches-begin --flag-switches-end  "file:///C:\Users\KALI LINUX ROOT\Desktop\_MY PROJECTS _\_VIRUS FMHD - V  1.1\WWW\html.html"
